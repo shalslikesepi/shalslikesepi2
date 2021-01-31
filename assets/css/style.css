@@ -19,7 +19,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/bg.jpg") top right no-repeat;
+  background: #040404 url("../img/bgviral.jpg") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
@@ -35,12 +35,12 @@ body::before {
 }
 
 a {
-  color: #18d26e;
+  color: #0006bd;
   text-decoration: none;
 }
 
 a:hover {
-  color: #35e888;
+  color: #0006bd;
   text-decoration: none;
 }
 
@@ -117,7 +117,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .social-links a:hover {
-  background: #18d26e;
+  background: #0006bd;
 }
 
 @media (max-width: 992px) {
