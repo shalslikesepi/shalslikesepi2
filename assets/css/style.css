@@ -426,7 +426,7 @@ section .container {
   font-size: 24px;
   background: rgba(255, 255, 255, 0.1);
   padding: 12px;
-  color: #00ffcc;
+  color: #000ceb;
   border-radius: 50px;
 }
 
@@ -616,7 +616,7 @@ section .container {
   font-weight: 600;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #00ffcc;
+  color: #000ceb;
   margin-bottom: 10px;
 }
 
@@ -649,8 +649,8 @@ section .container {
   border-radius: 50px;
   left: -9px;
   top: 0;
-  background: #00ffcc;
-  border: 2px solid #00ffcc;
+  background: #000ceb;
+  border: 2px solid #000ceb;
 }
 
 /*--------------------------------------------------------------
@@ -712,8 +712,8 @@ section .container {
 }
 
 .services .icon-box:hover {
-  background: #00ffcc;
-  border-color: #00ffcc;
+  background: #000ceb;
+  border-color: #fff;
 }
 
 .services .icon-box:hover .icon {
@@ -725,7 +725,7 @@ section .container {
 }
 
 .services .icon-box:hover .icon::before {
-  background: #82ffe6;
+  background: #000ceb;
 }
 
 .services .icon-box:hover h4 a, .services .icon-box:hover p {
