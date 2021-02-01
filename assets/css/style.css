@@ -667,7 +667,7 @@ section .container {
   margin: 0 auto;
   width: 64px;
   height: 64px;
-  background: #00f2ff;
+  background: #80f8ff;
   border-radius: 5px;
   transition: all .3s ease-out 0s;
   display: flex;
@@ -678,7 +678,7 @@ section .container {
 }
 
 .experience .icon-box .icon i {
-  color: #fff;
+  color: #000000;
   font-size: 28px;
 }
 
@@ -717,7 +717,7 @@ section .container {
 }
 
 .experience .icon-box:hover .icon {
-  background: #000000;
+  background: #fff;
 }
 
 .experience .icon-box:hover .icon i {
