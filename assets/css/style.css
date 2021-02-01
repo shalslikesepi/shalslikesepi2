@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  background-color: #000875;
+  background-color: #000ec9;
   color: #fff;
   position: relative;
   background: transparent;
@@ -19,7 +19,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #000875 url("../img/bgviral.png") top right no-repeat; 
+  background: #000ec9 url("../img/bgviral.png") top right no-repeat; 
   background-size: cover;
   left: 0;
   right: 0;
