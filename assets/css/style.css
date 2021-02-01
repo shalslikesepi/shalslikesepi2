@@ -717,7 +717,7 @@ section .container {
 }
 
 .experience .icon-box:hover .icon {
-  background: #fff;
+  background: #000000;
 }
 
 .experience .icon-box:hover .icon i {
