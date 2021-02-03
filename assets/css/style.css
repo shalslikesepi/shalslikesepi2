@@ -764,7 +764,7 @@ section .container {
 }
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  background: #0012ff;
+  background: #00b3bd;
 }
 
 .portfolio #portfolio-flters li:last-child {
